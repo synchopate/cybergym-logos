@@ -232,9 +232,6 @@ Crystalline, a cognitive memory layer implementing ACT-R-inspired knowledge mana
 The most significant open question is the extent to which this improvement is attributable to Crystalline specifically vs. differences in agent harness engineering. A controlled ablation with Crystalline enabled vs. disabled on the same harness and task set is the most important next step.
 
 Additional planned work includes:
-- Formal ablation: Crystalline vs. empty Crystalline vs. RAG baseline, matched conditions
-- Independent replication by a second operator
-- Per-vulnerability-class performance analysis
 - Evaluation on additional agentic benchmarks
 
 ## References
